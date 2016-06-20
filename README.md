@@ -1,2 +1,2 @@
 # Hello-Github
-My first github try...
+Let's try github... Hopefully it works
